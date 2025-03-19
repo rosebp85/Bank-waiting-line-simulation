@@ -4,3 +4,8 @@ Bank queue simulator project using appropriate algorithm and data structure. Wit
 ![My Image](./images/1.PNG)
 ![My Image](./images/2.PNG)
 
+
+# My-resume
+click on link below to check my resume
+
+https://rosebp85.github.io/resume/
